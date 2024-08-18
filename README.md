@@ -1,0 +1,2 @@
+# Synthetic Color-Magnitude Diagram generator
+This is the release repo for my synthetic CMD project that I did for my [undergrad astronomy thesis](https://doi.org/10.18130/wh4a-bt41). This only contains iterations of the software and does not have any development/test code for the sake of keeping the repository clean. If you'd like to see my dev code, please see the dev repo [synthetic-cmd-dev](github.com/zangston/synthetic-cmd-dev).
